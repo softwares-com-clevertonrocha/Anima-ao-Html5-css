@@ -1,3 +1,3 @@
 # css
- Animação Background Coles Ciclo
+ Animação Background Cores Ciclo
 https://softwares-com-clevertonrocha.github.io/css/
